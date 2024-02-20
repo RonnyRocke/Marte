@@ -1,0 +1,50 @@
+.detalhes p{
+    font-size: 20px;
+}
+
+.detalhes2 p{
+    font-size: 20px;
+}
+
+.detalhes3 p{
+    font-size: 25px;
+}
+
+.botton button{
+    background: pink;
+    color: blue;
+}
+
+.botton2 button{
+    background: yellow;
+    color: blue;
+}
+
+.botton3 button{
+    background: green;
+    color: blue;
+}
+
+.final p{
+    font-size: 18px;
+}
+
+body{
+    background: rgb(133, 241, 255);
+}
+
+.descricao img{
+    max-width: 400px;
+    max-height: 400px;
+    width: auto;
+    height: auto;
+   
+}
+
+.descricao h2{
+    font-size: 30px;
+
+
+
+}
+
